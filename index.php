@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-echo 'Hello GitHub!';
+echo 'Goodbye Halo!';
         ?>
     </body>
 </html>
